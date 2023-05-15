@@ -6,6 +6,6 @@ Here you gonna find some...
 - Challenges 
 
 about my journey in the tech.
-	![alt text]([image.jpg](https://media.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif))
+	![alt text](https://media.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif)
 
 
