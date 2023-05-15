@@ -1,1 +1,1 @@
-# Hey folks! Welcome to my profile.
+# Hey folks. Welcome to my profile!
