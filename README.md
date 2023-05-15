@@ -12,3 +12,13 @@ about my journey in the tech.
 ![alt text](https://media.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif)
 
 
+Let start with the basics:
+
+```
+{
+  "firstName": "Mateus",
+  "lastName": "Oliveira",
+  "age": 25
+}
+```
+
