@@ -17,7 +17,10 @@
 </br></br>
 
 Call me Matt. I'm a journalist by profession and technology lover. I'm currently taking bootcamp at the SPICED Academy to become a FullStack Developer.
+📈 my github stats... so far...
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akamateus&show_icons=true&theme=gotham" alt="akamateus" />
+  
 Here you gonna find some...
 - Docs
 - Exercises
@@ -37,6 +40,3 @@ Let start with the basics:
   "age": 25
 }
 ```
-📈 my github stats... so far...
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akamateus&show_icons=true&theme=gotham" alt="akamateus" />
