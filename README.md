@@ -23,7 +23,7 @@ Here you gonna find some...
 - Exercises
 - Challenges 
 
-about my journey in the _tech.
+about my journey in the _tech._
 
 ![alt text](https://media.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif)
 
