@@ -14,7 +14,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-</br>
+</br></br>
 
 Call me Matt. I'm a journalist by profession and technology lover. I'm currently taking bootcamp at the SPICED Academy to become a FullStack Developer.
 
