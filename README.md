@@ -16,7 +16,8 @@
 
 </br></br>
 
-Call me Matt. I'm a journalist by profession and technology lover. I'm currently taking bootcamp at the SPICED Academy to become a FullStack Developer.
+Have you ever wondered what happens when a tornado of coding languages, challenges, and projects collide? Well, look no further than my GitHub page! It's like a digital zoo filled with the quirky inhabitants of my Spiced bootcamp journey. JavaScript monkeys swing from branch to branch, CSS pandas play hide and seek with HTML kittens. You'll find more commits than a caffeine addict's heart rate and enough pull requests to make a weightlifter jealous. So, buckle up and prepare for a wild ride through my code-filled amusement park.
+
 </br>
 
 📈 my github stats... so far...
