@@ -25,10 +25,10 @@
 <hr>
 <h3> Some languages and apps I can play with: </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,ps,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,vscode,ps,ai,lr)](https://skillicons.dev)
 
 <hr>
-📈 my github stats... so far...
+<h3> 📈 my github stats... so far...</h3>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akamateus&show_icons=true&theme=gotham" alt="akamateus" />
   
