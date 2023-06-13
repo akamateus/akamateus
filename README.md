@@ -4,7 +4,7 @@
 <a href="https://www.instagram.com/akamateus/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="discordapp.com/users/akamateus">
+<a href="https://discordapp.com/users/akamateus">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/akamateuss">
