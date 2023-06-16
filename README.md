@@ -30,13 +30,6 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akamateus&show_icons=true&theme=gotham" alt="akamateus" />
   
-Here you gonna find some...
-- Docs
-- Exercises
-- Challenges 
-
-about my journey in the _tech._
-
 Let start with the basics:
 
 ```
