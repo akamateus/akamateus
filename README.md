@@ -25,7 +25,7 @@
 <hr>
 <h3> Some languages and apps I can play with: </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,vscode,ps,ai,lr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,mongodb,react,nextjs,js,html,css,vscode,ps,ai,lr)](https://skillicons.dev)
 
 <hr>
 <h3> 📈 my github stats... so far...</h3>
