@@ -21,7 +21,7 @@
   </p>
  </div>
 <hr>
-<h3> Some languages and apps I can play with: </h3>
+<h3> Some languages, frameworks and apps I can play with: </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,mongodb,react,babel,nextjs,js,html,css,vscode,ps,ai,lr)](https://skillicons.dev)
 
