@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-MateusOliveira-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusoliveirac/)](https://www.linkedin.com/in/mateusoliveirac/)
 [![Twitter Badge](https://img.shields.io/badge/-@akamateuss-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/akamateuss)](https://twitter.com/akamateuss)
 [![Instagram Badge](https://img.shields.io/badge/-@akamateus-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/akamateus/)](https://instagram.com/akamateus)
-[![Mail Badge](https://img.shields.io/badge/-mateusoliveirac@hotmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mateusoliveirac@hotmail.com)](mailto:mateusoliveira@hotmail.com)
+[![Mail Badge](https://img.shields.io/badge/-mateusoliveirac@hotmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mateusoliveirac@hotmail.com)](mailto:mateusoliveirac@hotmail.com)
 </br>
 <a href="https://www.instagram.com/akamateus/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
