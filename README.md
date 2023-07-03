@@ -25,9 +25,11 @@
   </p>
  </div>
 <hr>
+<div align=center>
 <h3> Some languages, frameworks and apps I can play with 🎯 </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,mongodb,react,babel,nextjs,js,html,css,vscode,ps,ai,lr)](https://skillicons.dev)
+</div>
 
 <hr>
 <p align="center">
