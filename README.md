@@ -20,7 +20,7 @@
 - ⚙️ Using daily: `.js`, `.html`, `.css`
 - 📝 Studying **[CS50X](https://cs50.harvard.edu/x/2023/)**
 - 🌍 I'm mostly active within the **[Spiced Academy](https://www.spiced-academy.com/en)**
-- 💻 PC-Gaming Addict (mostly **[League of Legends]((https://www.leagueofgraphs.com/summoner/euw/Gata+Nordestina))**)
+- 💻 PC-Gaming Addict (mostly **[League of Legends](https://www.leagueofgraphs.com/summoner/euw/Gata+Nordestina)**)
 - 🧛 Watching Anime & slapstick comedy
   </p>
  </div>
