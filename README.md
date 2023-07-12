@@ -42,10 +42,32 @@
 Let start with the basics:
 
 ```
-{
-  "firstName": "Mateus",
-  "lastName": "Oliveira",
-  "age": 25
+function aTypicalDay (hasOnSiteInterview, hasCodingChallenge) {
+if (hasOnSiteInterview) { return crushInterview(); }
+
+
+// Morning
+WorkOut();
+var applicationSubmitted = 0;
+while (applicationSubmitted < 5) {
+applicationSubmitted++;
 }
-  console.log(everything(???))
+
+// Afternoon
+haveLunch();
+var topics = ['CSS', 'systemDesign', 'Python'];
+for (var 1 = 0; 1 < topics. length; 1++) {
+study (topics [1]);
+}
+
+//Evening
+Netflix();
+if (hasCodingChallenge) {
+doCodingChallenge () ;
+} else {
+studyMore () ;
+}
+PlayLeagueOfLegends () ;
+return sleep();
+}
 ```
