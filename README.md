@@ -60,7 +60,7 @@ for (var 1 = 0; 1 < topics. length; 1++) {
 study (topics [1]);
 }
 
-//Evening
+// Evening
 Netflix();
 if (hasCodingChallenge) {
 doCodingChallenge () ;
