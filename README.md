@@ -17,7 +17,7 @@
    <br/>
   <p  align-text=left align=justify> You'll find more commits than a caffeine addict's heart rate and enough pull requests to make a weightlifter jealous. So, buckle up and prepare for a wild ride through my code-filled amusement park👨🏽‍💻
 
-- ⚙️ Using daily:  `React.js`, `Next.js`, `js`, `html`, `css`;
+- ⚙️ Using daily:  `React.js`, `Next.js`, `js`,`ts`, `html`, `css`;
 - 📝 Studying **[CS50X](https://cs50.harvard.edu/x/2023/)**
 - 🌍 I'm mostly active within the **[Spiced Academy](https://www.spiced-academy.com/en)**
 - 💻 PC-Gaming Addict (mostly **[League of Legends](https://www.leagueofgraphs.com/summoner/euw/akamateus)**)
