@@ -46,21 +46,21 @@ function aTypicalDay (hasOnSiteInterview, hasCodingChallenge) {
 if (hasOnSiteInterview) { return crushInterview(); }
 
 
-// Morning
+//Morning
 WorkOut();
 var applicationSubmitted = 0;
 while (applicationSubmitted < 5) {
 applicationSubmitted++;
 }
 
-// Afternoon
+//Afternoon
 haveLunch();
 var topics = ['CSS', 'systemDesign', 'Python'];
 for (var 1 = 0; 1 < topics. length; 1++) {
 study (topics [1]);
 }
 
-// Evening
+//Evening
 Netflix();
 if (hasCodingChallenge) {
 doCodingChallenge () ;
