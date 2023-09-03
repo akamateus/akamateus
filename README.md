@@ -46,7 +46,7 @@ function aTypicalDay (hasOnSiteInterview, hasCodingChallenge) {
 if (hasOnSiteInterview) { return crushInterview(); }
 
 
-// Morning
+//Morning
 WorkOut();
 var applicationSubmitted = 0;
 while (applicationSubmitted < 5) {
