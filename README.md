@@ -41,32 +41,34 @@
 Let start with the basics:
 
 ```
-function aTypicalDay (hasOnSiteInterview, hasCodingChallenge) {
-if (hasOnSiteInterview) { return crushInterview(); }
+function aTypicalDay(hasOnSiteInterview, hasCodingChallenge) {
+  if (hasOnSiteInterview) {
+    return crushInterview();
+  }
 
+  // Morning
+  workOut();
+  let applicationsSubmitted = 0;
+  while (applicationsSubmitted < 5) {
+    applicationsSubmitted++;
+  }
 
-//Morning
-WorkOut();
-var applicationSubmitted = 0;
-while (applicationSubmitted < 5) {
-applicationSubmitted++;
+  // Afternoon
+  haveLunch();
+  const topics = ['CSS', 'systemDesign', 'Python'];
+  for (let i = 0; i < topics.length; i++) {
+    study(topics[i]);
+  }
+
+  // Evening
+  netflix();
+  if (hasCodingChallenge) {
+    doCodingChallenge();
+  } else {
+    studyMore();
+  }
+  playLeagueOfLegends();
+  return sleep();
 }
 
-// Afternoon
-haveLunch();
-var topics = ['CSS', 'systemDesign', 'Python'];
-for (var 1 = 0; 1 < topics. length; 1++) {
-study (topics [1]);
-}
-
-// Evening
-Netflix();
-if (hasCodingChallenge) {
-doCodingChallenge () ;
-} else {
-studyMore () ;
-}
-PlayLeagueOfLegends () ;
-return sleep();
-}
 ```
