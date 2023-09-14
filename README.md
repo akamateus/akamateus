@@ -11,7 +11,7 @@
    
 </div> 
 <div id= 'container'>
-    <img  width=300 align="right" alt="GIF" src="https://media.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif" />
+    <img  width=300 align="right" alt="GIF" src="https://media.giphy.com/media/y0XAoHQPmv4CQ/giphy.gif" />
    <br/>
   <p  align-text=left align=justify> You'll find more commits than a caffeine addict's heart rate and enough pull requests to make a weightlifter jealous. So, buckle up and prepare for a wild ride through my code-filled amusement park👨🏽‍💻
 
