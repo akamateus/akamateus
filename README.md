@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Ahoy sailor, I'm <a href="https://www.linkedin.com/in/akamateus/">Matt</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Welcome, I'm <a href="https://www.linkedin.com/in/akamateus/">Matt</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    
  
