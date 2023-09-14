@@ -18,8 +18,8 @@
 - ⚙️ Using daily:  `React.js`, `Next.js`, `JavaScript`,`TypeScript`, `html`, `css`;
 - 📝 Studying **[CS50X](https://cs50.harvard.edu/x/2023/)**
 - 🌍 I'm mostly active within the **[Spiced Academy](https://www.spiced-academy.com/en)**
-- 💻 PC-Gaming Addict (mostly **[League of Legends](https://www.leagueofgraphs.com/summoner/euw/akamateus)**)
-- 🧛 Watching Anime & slapstick comedy
+<!-- - 💻 PC-Gaming Addict (mostly **[League of Legends](https://www.leagueofgraphs.com/summoner/euw/akamateus)**)
+- 🧛 Watching Anime & slapstick comedy -->
   </p>
  </div>
 <hr>
