@@ -13,7 +13,7 @@
 <div id= 'container'>
     <img  width=250 align="right" alt="GIF" src="https://media.giphy.com/media/y0XAoHQPmv4CQ/giphy.gif" />
    <br/>
-  <p  align-text=left align=justify> Hey there! I'm a journalist taking the plunge into the tech world, based in Berlin. I'm super proud of what I've accomplished so far, and my GitHub is packed with cool projects and knowledge I've picked up along the way. It's been an awesome experience, and I can't wait to see where this journey takes me! 📰💡💻
+  <p  align-text=left align=justify> I'm a journalist exploring the world of tech, and I'm loving every moment of it. My GitHub is a collection of projects and knowledge I've gathered along the way. Living in Berlin has been a fantastic experience, adding a special touch to my work. I'm also creating content on LinkedIn to share my journey 📰💡💻
 
 - ⚙️ Using daily:  `React.js`, `Next.js`, `JavaScript`,`TypeScript`, `html`, `css`;
 - 📝 Studying **[CS50X](https://cs50.harvard.edu/x/2023/)**
