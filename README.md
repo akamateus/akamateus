@@ -13,7 +13,7 @@
 <div id= 'container'>
     <img  width=250 align="right" alt="GIF" src="https://media.giphy.com/media/y0XAoHQPmv4CQ/giphy.gif" />
    <br/>
-  <p  align-text=left align=justify> You'll find more commits than a caffeine addict's heart rate and enough pull requests to make a weightlifter jealous. So, buckle up and prepare for a wild ride through my code-filled amusement park👨🏽‍💻
+  <p  align-text=left align=justify> Hey there! I'm a journalist taking the plunge into the tech world, based in Berlin. I'm super proud of what I've accomplished so far, and my GitHub is packed with cool projects and knowledge I've picked up along the way. It's been an awesome experience, and I can't wait to see where this journey takes me! 📰💡💻
 
 - ⚙️ Using daily:  `React.js`, `Next.js`, `JavaScript`,`TypeScript`, `html`, `css`;
 - 📝 Studying **[CS50X](https://cs50.harvard.edu/x/2023/)**
