@@ -6,7 +6,7 @@
    
 [![Linkedin Badge](https://img.shields.io/badge/-MateusOliveira-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusoliveirac/)](https://www.linkedin.com/in/mateusoliveirac/)
 [![Mail Badge](https://img.shields.io/badge/-mateusoliveirac@hotmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mateusoliveirac@hotmail.com)](mailto:mateusoliveirac@hotmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-MyPlaylists🎧-limegreen?style=flat&logo=spotify&logoColor=white&link=https://open.spotify.com/user/12147384688?si=c8b08e3f123541df)](https://open.spotify.com/user/12147384688?si=c8b08e3f123541df)
+<!-- [![Instagram Badge](https://img.shields.io/badge/-MyPlaylists🎧-limegreen?style=flat&logo=spotify&logoColor=white&link=https://open.spotify.com/user/12147384688?si=c8b08e3f123541df)](https://open.spotify.com/user/12147384688?si=c8b08e3f123541df) -->
 [![Discord Badge](https://img.shields.io/badge/-akamateus🕹️-mediumpurple?style=flat&logo=discord&logoColor=white&link=https://instagram.com/akamateus/)](https://instagram.com/akamateus)
    
 </div> 
