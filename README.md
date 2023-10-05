@@ -39,7 +39,6 @@
 </p>
   
 Let start with the basics:
-
 ```
 function aTypicalDay(hasOnSiteInterview, hasCodingChallenge) {
   if (hasOnSiteInterview) {
