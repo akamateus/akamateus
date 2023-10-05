@@ -38,7 +38,10 @@
   <br>
 </p>
   
-Let start with the basics:
+<div align="center">
+<h3>Let start with the basics:</h3>
+</div>
+
 ```
 function aTypicalDay(hasOnSiteInterview, hasCodingChallenge) {
   if (hasOnSiteInterview) {
