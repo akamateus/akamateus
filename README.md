@@ -16,7 +16,7 @@
   <p  align-text=left align=justify> I'm a journalist exploring the world of tech, and loving every moment of it. My GitHub is a collection of projects and knowledge I've gathered along the way. I'm also creating content on LinkedIn to share my journey 📰💡💻
 
 - ⚙️ Using daily:  `React.js`, `Next.js`, `JavaScript`,`TypeScript`, `html`, `css`;
-- 📝 Studying **[CS50X](https://cs50.harvard.edu/x/2023/)**, **[Swift](https://developer.apple.com/swift/)** and **[Atlassian Jira](https://www.atlassian.com/software/jira)**
+- 📝 Studying **[CS50X](https://cs50.harvard.edu/x/2023/)**, **[Swift](https://developer.apple.com/swift/)**, **[Atlassian Jira](https://www.atlassian.com/software/jira)** and **[AWS CDK](https://aws.amazon.com/cdk/)**
 - 🌍 I'm mostly active within the **[Spiced Academy](https://www.spiced-academy.com/en)**
 <!-- - 💻 PC-Gaming Addict (mostly **[League of Legends](https://www.leagueofgraphs.com/summoner/euw/akamateus)**)
 - 🧛 Watching Anime & slapstick comedy -->
